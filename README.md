@@ -1,0 +1,2 @@
+# WindowCenterClick
+通过鼠标点击的方式将选中的桌面程序进行居中显示
