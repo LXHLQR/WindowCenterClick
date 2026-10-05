@@ -16,4 +16,5 @@ if errorlevel 1 (
     exit /b 1
 )
 echo Build complete: WindowCenterClick.exe
+> "build-version-2.txt" echo 2
 exit /b 0
